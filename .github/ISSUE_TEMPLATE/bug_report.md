@@ -7,32 +7,20 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Bug描述
+<!-- 必填 -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### 复现步骤
+<!-- 必填 -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### 实际结果
+<!-- 必填 -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### 期望结果
+<!-- 必填 -->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### 所属层级
+<!-- 必填：portal / API / Infra -->
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+### 优先级
+<!-- 必填 -->
